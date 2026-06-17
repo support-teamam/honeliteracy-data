@@ -2,11 +2,11 @@
 /**
  * Rebuilds data/manifest.json from data/passages.json.
  *
- * - Computes the sha256 of the data file.
- * - Bumps `version` ONLY when the data actually changed (idempotent), so
- *   re-running on unchanged data is a no-op and produces no churn.
- * - The app reads manifest.json, compares `version` to what it has cached,
- *   and downloads the new data only when it's higher.
+ * - The `version` field inside passages.json is authoritative: bump it whenever
+ *   you change the data (the app stores this same number and re-downloads only
+ *   when the remote version is higher). This script copies it into the manifest
+ *   and refuses to publish a content change that forgot to bump it.
+ * - Computes the sha256 of the data file (the app verifies it after download).
  *
  * Run locally:  node scripts/build-manifest.mjs
  * In CI:        invoked by .github/workflows/update-data.yml
@@ -70,6 +70,12 @@ for (const p of passages) {
   }
 }
 
+const version = parsed.version;
+if (typeof version !== 'number' || version < 1) {
+  console.error('passages.json must carry a numeric "version" >= 1.');
+  process.exit(1);
+}
+
 let prev = null;
 if (existsSync(MANIFEST_PATH)) {
   try { prev = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8')); } catch { /* ignore */ }
@@ -80,9 +86,18 @@ if (prev && prev.sha256 === sha256 && prev.schema === SCHEMA_VERSION) {
   process.exit(0);
 }
 
+// Guard: content changed but the author forgot to bump passages.json "version".
+// Shipping a new sha under an old version means apps never fetch the update.
+if (prev && prev.sha256 !== sha256 && prev.version === version) {
+  console.error(
+    `Content changed but version is still ${version}. Bump "version" in ` +
+    `data/passages.json (to ${version + 1}) before publishing.`);
+  process.exit(1);
+}
+
 const manifest = {
   schema: SCHEMA_VERSION,
-  version: (prev?.version || 0) + 1,
+  version,
   url: DATA_URL,
   sha256,
   passageCount,

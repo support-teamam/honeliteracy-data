@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 1,
+  "version": 2,
   "passages": [
     {
       "id": "pd-aesop-ant-grasshopper",
@@ -571,6 +571,154 @@
           ],
           "answer": 1,
           "explanation": "The closing advice: \"one short passage read with full attention beats an hour of skimming.\""
+        }
+      ]
+    },
+    {
+      "id": "pd-douglass-learning-to-read",
+      "title": "Learning to Read",
+      "sourceType": "public-domain",
+      "source": "Frederick Douglass, Narrative of the Life of Frederick Douglass (1845)",
+      "attribution": "Frederick Douglass, Narrative of the Life of Frederick Douglass, an American Slave (1845). Public domain.",
+      "genre": "history",
+      "level": 4,
+      "text": "Very soon after I went to live with Mr. and Mrs. Auld, she very kindly commenced to teach me the A, B, C. After I had learned this, she assisted me in learning to spell words of three or four letters. Just at this point of my progress, Mr. Auld found out what was going on, and at once forbade Mrs. Auld to instruct me further, telling her, among other things, that it was unlawful, as well as unsafe, to teach a slave to read. To use his own words, further, he said, 'If you give a slave an inch, he will take an ell. A slave should know nothing but to obey his master — to do as he is told to do. Learning would spoil the best slave in the world.' These words sank deep into my heart, stirred up sentiments within that lay slumbering, and called into existence an entirely new train of thought. It was a new and special revelation, explaining dark and mysterious things, with which my youthful understanding had struggled, but struggled in vain. I now understood what had been to me a most perplexing difficulty — namely, the white man's power to enslave the black man. From that moment, I understood the pathway from slavery to freedom. Though conscious of the difficulty of learning without a teacher, I set out with high hope, and a fixed purpose, at whatever cost of trouble, to learn how to read.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why did Mr. Auld forbid his wife from teaching Douglass to read?",
+          "choices": [
+            "He thought Douglass was too young to learn",
+            "He believed literacy would make an enslaved person harder to control",
+            "He wanted to teach Douglass himself",
+            "He thought reading was a waste of time"
+          ],
+          "answer": 1,
+          "explanation": "Auld said learning would \"spoil\" a slave and that one taught an inch would \"take an ell\" — he feared literacy would undermine his control."
+        },
+        {
+          "id": "q2",
+          "skill": "main-idea",
+          "stem": "What realization did Auld's words spark in Douglass?",
+          "choices": [
+            "That his mistress had been unkind",
+            "That reading was the pathway from slavery to freedom",
+            "That he should obey his master",
+            "That spelling was easier than reading"
+          ],
+          "answer": 1,
+          "explanation": "Douglass writes, \"From that moment, I understood the pathway from slavery to freedom\" — the very thing Auld feared revealed reading's power to him."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In \"give him an inch, he will take an ell,\" an \"ell\" (an old unit of length) is used to mean:",
+          "choices": ["a tiny amount", "a much greater amount", "a place to hide", "a kind of letter"],
+          "answer": 1,
+          "explanation": "An ell is far longer than an inch; the saying means a small concession will be stretched into a large one."
+        }
+      ]
+    },
+    {
+      "id": "pd-plato-cave",
+      "title": "The Allegory of the Cave",
+      "sourceType": "public-domain",
+      "source": "Plato, The Republic, Book VII (c. 375 BC)",
+      "attribution": "Plato, The Republic, trans. Benjamin Jowett (1871). Public domain.",
+      "genre": "philosophy",
+      "level": 5,
+      "text": "And now let me show in a figure how far our nature is enlightened or unenlightened. Behold human beings living in an underground den; here they have been from their childhood, and have their legs and necks chained so that they cannot move, and can only see before them, being prevented by the chains from turning round their heads. Above and behind them a fire is blazing at a distance, and between the fire and the prisoners there is a raised way; and you will see, if you look, a low wall built along the way, like the screen which marionette players have in front of them, over which they show the puppets. And do you see men passing along the wall carrying vessels, and statues and figures of animals made of wood and stone? To the prisoners, the truth would be literally nothing but the shadows of these images cast upon the wall before them. And when one of them is liberated and compelled suddenly to stand up and turn his neck and walk and look towards the light, he will suffer sharp pains; the glare will distress him, and he will be unable to see the realities of which in his former state he had seen only the shadows. He will need to grow accustomed to the sight of the upper world, and only by degrees will he come to see the things themselves.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "What do the shadows on the wall represent for the prisoners?",
+          "choices": [
+            "Frightening illusions they wish to escape",
+            "The only reality they have ever known",
+            "Messages from the world above",
+            "A game the prisoners play"
+          ],
+          "answer": 1,
+          "explanation": "Having seen nothing else, the prisoners take the shadows to be \"literally nothing but\" the truth — the shadows are their entire reality."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What happens when a prisoner is first turned toward the light?",
+          "choices": [
+            "He immediately sees everything clearly",
+            "He suffers pain and cannot yet see the real objects",
+            "He returns to his chains at once",
+            "He becomes invisible to the others"
+          ],
+          "answer": 1,
+          "explanation": "The text says he \"will suffer sharp pains,\" the glare distresses him, and he is at first \"unable to see the realities.\""
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "The allegory is best understood as an image of:",
+          "choices": [
+            "The dangers of living underground",
+            "The painful, gradual passage from illusion to genuine knowledge",
+            "Why prisoners should not be freed",
+            "The superiority of firelight to sunlight"
+          ],
+          "answer": 1,
+          "explanation": "Plato uses the freed prisoner's difficult adjustment to the light as a figure for how the mind moves, slowly and uncomfortably, from appearances to truth."
+        }
+      ]
+    },
+    {
+      "id": "og-art-of-finishing",
+      "title": "The Lost Art of Finishing",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nonfiction",
+      "level": 4,
+      "text": "There is a particular satisfaction that comes only from finishing something difficult, and it is disappearing from our lives one notification at a time. Consider what reading a long, demanding chapter actually requires. You must hold the beginning in mind as you reach the end. You must resist the dozen small urges to check something, to look away, to do anything other than stay with the single thread of an argument as it slowly tightens. None of this is comfortable, and that discomfort is precisely the point. The mind, like the body, grows only against resistance.\n\nModern tools are engineered to remove resistance. They deliver the answer before you have formed the question, summarize the book before you have opened it, and interrupt any sustained effort with something brighter and easier. Each individual convenience is harmless. Taken together, over years, they quietly retrain us to expect that understanding should arrive without struggle — and understanding that arrives without struggle rarely stays.\n\nThe cure is not to abandon these tools, which are genuinely useful, but to deliberately reserve some part of each day for the slow work they cannot do for you. Read one hard thing to the end. Sit with a paragraph you did not grasp the first time, and read it again. Notice the moment you want to quit, and continue just past it. Finishing is a skill, and like every skill it is built by finishing — not by intending to, not by summarizing, but by actually crossing the last line of something that asked more of you than you wanted to give.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage's central argument?",
+          "choices": [
+            "Modern tools should be abandoned entirely.",
+            "Effortful reading builds an understanding that easy, summarized consumption cannot.",
+            "Finishing books is no longer necessary.",
+            "Comfort is the goal of reading."
+          ],
+          "answer": 1,
+          "explanation": "The author argues that the discomfort of sustained reading is \"precisely the point,\" and that understanding without struggle \"rarely stays.\""
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author say \"that discomfort is precisely the point\"?",
+          "choices": [
+            "Because reading should be unpleasant",
+            "Because the mind grows only against resistance, like a muscle",
+            "Because difficult books are better written",
+            "Because discomfort means you are reading too fast"
+          ],
+          "answer": 1,
+          "explanation": "The next line makes the analogy explicit: \"The mind, like the body, grows only against resistance.\""
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What does the author recommend doing about modern tools?",
+          "choices": [
+            "Abandon them, since they are harmful",
+            "Use them freely for everything",
+            "Keep using them, but reserve daily time for the slow reading they can't do for you",
+            "Only use them to summarize books"
+          ],
+          "answer": 2,
+          "explanation": "The cure \"is not to abandon these tools\" but \"to deliberately reserve some part of each day for the slow work they cannot do for you.\""
         }
       ]
     }

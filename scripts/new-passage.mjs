@@ -84,8 +84,11 @@ data.passages.push({
   ],
 });
 
+// Bump the authoritative version so build-manifest publishes the change.
+data.version = (typeof data.version === 'number' ? data.version : 0) + 1;
+
 writeFileSync(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
 console.log(
-  `Added "${id}" (${wordCount} words). Fill in its questions, then run:\n` +
-  `  node scripts/build-manifest.mjs`
+  `Added "${id}" (${wordCount} words); bumped version to ${data.version}. ` +
+  `Fill in its questions, then run:\n  node scripts/build-manifest.mjs`
 );
