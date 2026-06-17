@@ -1,0 +1,578 @@
+{
+  "schema": 1,
+  "version": 1,
+  "passages": [
+    {
+      "id": "pd-aesop-ant-grasshopper",
+      "title": "The Ant and the Grasshopper",
+      "sourceType": "public-domain",
+      "source": "Aesop's Fables",
+      "attribution": "Aesop, translated by V. S. Vernon Jones (1912). Public domain.",
+      "genre": "fable",
+      "level": 1,
+      "text": "In a field one summer's day a Grasshopper was hopping about, chirping and singing to its heart's content. An Ant passed by, bearing along with great effort an ear of corn he was taking to the nest. \"Why not come and chat with me,\" said the Grasshopper, \"instead of toiling and moiling in that way?\" \"I am helping to lay up food for the winter,\" said the Ant, \"and recommend you to do the same.\" \"Why bother about winter?\" said the Grasshopper; \"we have got plenty of food at present.\" But the Ant went on its way and continued its toil. When the winter came the Grasshopper had no food, and found itself dying of hunger, while it saw the ants distributing every day corn and grain from the stores they had collected in the summer. Then the Grasshopper knew: it is best to prepare for the days of need.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What lesson does the fable teach?",
+          "choices": [
+            "Hard work in good times prepares you for hard times.",
+            "Singing is a waste of a summer day.",
+            "Ants and grasshoppers cannot be friends.",
+            "Winter always arrives sooner than expected."
+          ],
+          "answer": 0,
+          "explanation": "The Ant stores food in summer and survives winter, while the idle Grasshopper starves — the moral is to prepare during times of plenty."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What was the Ant carrying when it passed the Grasshopper?",
+          "choices": ["A blade of grass", "An ear of corn", "A drop of water", "A dead leaf"],
+          "answer": 1,
+          "explanation": "The text says the Ant was \"bearing along with great effort an ear of corn.\""
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, \"toiling and moiling\" most nearly means:",
+          "choices": ["resting lazily", "working hard", "singing loudly", "wandering aimlessly"],
+          "answer": 1,
+          "explanation": "\"Toiling and moiling\" is an old phrase for laboring hard — contrasted with the Grasshopper's idle chatting."
+        }
+      ]
+    },
+    {
+      "id": "pd-lincoln-gettysburg",
+      "title": "The Gettysburg Address",
+      "sourceType": "public-domain",
+      "source": "Abraham Lincoln, 1863",
+      "attribution": "Abraham Lincoln, Gettysburg Address (1863). Public domain.",
+      "genre": "history",
+      "level": 4,
+      "text": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. But, in a larger sense, we can not dedicate — we can not consecrate — we can not hallow — this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "vocabulary",
+          "stem": "\"Four score and seven years\" refers to how many years?",
+          "choices": ["47", "67", "87", "107"],
+          "answer": 2,
+          "explanation": "A \"score\" is twenty. Four score (80) plus seven equals 87."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does Lincoln say the living cannot truly consecrate the ground?",
+          "choices": [
+            "Because the ceremony was too short",
+            "Because the soldiers who fought already made it sacred through their sacrifice",
+            "Because the war was not yet over",
+            "Because the ground belonged to the nation, not individuals"
+          ],
+          "answer": 1,
+          "explanation": "Lincoln argues the brave men \"have consecrated it, far above our poor power to add or detract\" — their sacrifice, not the speech, hallows the ground."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "What does Lincoln urge the living to do?",
+          "choices": [
+            "Build a monument on the battlefield",
+            "End the war immediately",
+            "Dedicate themselves to the unfinished work the soldiers advanced",
+            "Honor only the soldiers who died"
+          ],
+          "answer": 2,
+          "explanation": "He calls the living \"to be dedicated here to the unfinished work\" the fallen had \"so nobly advanced.\""
+        }
+      ]
+    },
+    {
+      "id": "pd-darwin-entangled-bank",
+      "title": "An Entangled Bank",
+      "sourceType": "public-domain",
+      "source": "Charles Darwin, On the Origin of Species (1859)",
+      "attribution": "Charles Darwin, On the Origin of Species, closing passage (1859). Public domain.",
+      "genre": "science",
+      "level": 5,
+      "text": "It is interesting to contemplate an entangled bank, clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner, have all been produced by laws acting around us. These laws, taken in the largest sense, being Growth with Reproduction; Inheritance; Variability; a Ratio of Increase so high as to lead to a Struggle for Life, and as a consequence to Natural Selection, entailing Divergence of Character and the Extinction of less-improved forms. Thus, from the war of nature, from famine and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is Darwin's central claim in this passage?",
+          "choices": [
+            "Nature is peaceful and unchanging.",
+            "Complex, interdependent life forms arise from a few natural laws.",
+            "Birds and insects compete for the same food.",
+            "Extinction is rare in the natural world."
+          ],
+          "answer": 1,
+          "explanation": "Darwin marvels that diverse, interdependent forms were \"all been produced by laws acting around us,\" which he then lists."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does Darwin find striking about the outcome of \"the war of nature\"?",
+          "choices": [
+            "That it produces the higher animals, an exalted result, from famine and death",
+            "That it never truly ends",
+            "That humans are exempt from it",
+            "That it favors plants over animals"
+          ],
+          "answer": 0,
+          "explanation": "He notes that from \"famine and death\" follows \"the most exalted object\" — a striking, almost paradoxical, conclusion."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "As used here, \"contemplate\" most nearly means:",
+          "choices": ["destroy", "study and reflect on", "purchase", "ignore"],
+          "answer": 1,
+          "explanation": "To contemplate the bank is to look at it thoughtfully and reflect, as the rest of the sentence makes clear."
+        }
+      ]
+    },
+    {
+      "id": "pd-wells-time-machine",
+      "title": "The Time Traveller Explains",
+      "sourceType": "public-domain",
+      "source": "H. G. Wells, The Time Machine (1895)",
+      "attribution": "H. G. Wells, The Time Machine (1895). Public domain.",
+      "genre": "fiction",
+      "level": 3,
+      "text": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated. \"You must follow me carefully. I shall have to controvert one or two ideas that are almost universally accepted. The geometry, for instance, they taught you at school is founded on a misconception.\" \"Is not that rather a large thing to expect us to begin upon?\" said Filby, an argumentative person with red hair. \"I do not mean to ask you to accept anything without reasonable ground for it. You will soon admit as much as I need from you. You know of course that a mathematical line, a line of thickness nil, has no real existence. They taught you that? Neither has a mathematical plane. These things are mere abstractions.\"",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "How does the Time Traveller expect his listeners to react to his ideas at first?",
+          "choices": [
+            "With instant agreement",
+            "With skepticism, which he plans to overcome with reasoning",
+            "With boredom",
+            "With fear"
+          ],
+          "answer": 1,
+          "explanation": "He says he will \"controvert\" widely accepted ideas but won't ask them to accept anything \"without reasonable ground,\" anticipating doubt he intends to argue past."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What example does the Time Traveller give of an abstraction with \"no real existence\"?",
+          "choices": [
+            "A clock",
+            "A mathematical line of zero thickness",
+            "A grey eye",
+            "A red-haired man"
+          ],
+          "answer": 1,
+          "explanation": "He cites \"a mathematical line, a line of thickness nil\" and a \"mathematical plane\" as mere abstractions."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "\"Recondite\" as used here most nearly means:",
+          "choices": ["obvious", "obscure or hard to understand", "humorous", "dangerous"],
+          "answer": 1,
+          "explanation": "A recondite matter is a deep or obscure one — fitting, since he must explain it carefully."
+        }
+      ]
+    },
+    {
+      "id": "pd-aurelius-morning",
+      "title": "On Rising in the Morning",
+      "sourceType": "public-domain",
+      "source": "Marcus Aurelius, Meditations (c. 170 AD)",
+      "attribution": "Marcus Aurelius, Meditations, Book V, trans. George Long (1862). Public domain.",
+      "genre": "philosophy",
+      "level": 4,
+      "text": "In the morning when thou risest unwillingly, let this thought be present: I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world? Or have I been made for this, to lie in the bed-clothes and keep myself warm? But this is more pleasant. Dost thou exist then to take thy pleasure, and not at all for action or exertion? Dost thou not see the little plants, the little birds, the ants, the spiders, the bees working together to put in order their several parts of the universe? And art thou unwilling to do the work of a human being, and dost thou not make haste to do that which is according to thy nature?",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the author urging the reader to do?",
+          "choices": [
+            "Sleep longer to stay healthy",
+            "Rise and do the work proper to a human being",
+            "Avoid hard labor",
+            "Imitate the warmth of bed-clothes"
+          ],
+          "answer": 1,
+          "explanation": "He reminds himself he was made \"for action or exertion,\" not to lie warm in bed."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author mention plants, birds, ants, and bees?",
+          "choices": [
+            "To show nature is more beautiful than humans",
+            "As examples of beings that do their natural work without complaint",
+            "To suggest humans should live outdoors",
+            "To prove animals are happier than people"
+          ],
+          "answer": 1,
+          "explanation": "They all \"work together to put in order their several parts of the universe\" — a model for doing one's own natural work."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "What excuse for staying in bed does the author consider and reject?",
+          "choices": [
+            "That it is too cold to work",
+            "That staying warm is more pleasant",
+            "That there is no work to do",
+            "That he is ill"
+          ],
+          "answer": 1,
+          "explanation": "He raises \"But this is more pleasant\" and rejects it by asking whether he exists merely to take pleasure."
+        }
+      ]
+    },
+    {
+      "id": "pd-doyle-scandal-opening",
+      "title": "The Woman",
+      "sourceType": "public-domain",
+      "source": "Arthur Conan Doyle, A Scandal in Bohemia (1891)",
+      "attribution": "Arthur Conan Doyle, The Adventures of Sherlock Holmes (1891). Public domain.",
+      "genre": "fiction",
+      "level": 3,
+      "text": "To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer — excellent for drawing the veil from men's motives and actions. But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why does the narrator say Holmes avoids emotions like love?",
+          "choices": [
+            "Because he had been hurt before",
+            "Because they could disturb his precise reasoning",
+            "Because he disliked all people",
+            "Because Irene Adler rejected him"
+          ],
+          "answer": 1,
+          "explanation": "Emotions would \"introduce a distracting factor which might throw a doubt upon all his mental results.\""
+        },
+        {
+          "id": "q2",
+          "skill": "vocabulary",
+          "stem": "\"Abhorrent\" as used here most nearly means:",
+          "choices": ["delightful", "deeply distasteful", "confusing", "ordinary"],
+          "answer": 1,
+          "explanation": "Emotions were \"abhorrent\" to his mind — that is, repugnant or hateful to it."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "How does the narrator characterize Holmes overall?",
+          "choices": [
+            "As a warm and romantic man",
+            "As a flawless reasoning machine wary of emotion",
+            "As someone secretly in love with Irene Adler",
+            "As a careless observer of people"
+          ],
+          "answer": 1,
+          "explanation": "He calls Holmes \"the most perfect reasoning and observing machine\" for whom emotion would be a liability."
+        }
+      ]
+    },
+    {
+      "id": "og-attention-economy",
+      "title": "The Cost of a Scrolling Mind",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nonfiction",
+      "level": 3,
+      "text": "Every feed you scroll is engineered to interrupt you. The designers measure success in seconds of attention captured, so each post is short, vivid, and quickly replaced by the next. Over time this trains a particular habit of mind: skim, react, move on. The trouble is that deep understanding works the opposite way. To follow a long argument, hold several ideas at once, or notice what an author implies but never states, the mind must stay still and sustain effort across paragraphs. That stamina is a skill, and like any skill it weakens without practice. Reading a difficult page slowly is not nostalgia for an older medium; it is a workout for the exact muscles that feeds quietly let atrophy. The encouraging part is that the muscle responds. People who read demanding material a little each day report that focus returns, often within weeks.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage's central argument?",
+          "choices": [
+            "Social media feeds should be banned.",
+            "Scrolling trains shallow attention, but deliberate reading can rebuild deep focus.",
+            "Reading is only valuable for nostalgia.",
+            "Deep understanding requires no effort."
+          ],
+          "answer": 1,
+          "explanation": "The passage contrasts the skim-and-react habit feeds create with the sustained focus reading builds, and ends on the hopeful note that the \"muscle responds.\""
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author compare difficult reading to a \"workout\"?",
+          "choices": [
+            "Because reading burns physical calories",
+            "Because focus is a trainable capacity that strengthens with effortful practice",
+            "Because reading is unpleasant like exercise",
+            "Because both should be done at a gym"
+          ],
+          "answer": 1,
+          "explanation": "The author frames sustained attention as a \"muscle\" that \"weakens without practice\" but \"responds\" to training — a workout metaphor for a trainable skill."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "\"Atrophy,\" as used in the passage, most nearly means:",
+          "choices": ["grow stronger", "waste away from disuse", "become distracted", "spread quickly"],
+          "answer": 1,
+          "explanation": "The feeds \"let atrophy\" the focus muscles — i.e., let them weaken or waste away from lack of use."
+        }
+      ]
+    },
+    {
+      "id": "og-ai-and-the-reader",
+      "title": "When the Machine Reads For You",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nonfiction",
+      "level": 4,
+      "text": "It is now trivial to ask a machine to summarize a book in three bullet points. The summary will often be accurate, and for some purposes that is enough. But a summary is a destination handed to you without the journey, and the journey is where most of the value lay. When you read the full argument yourself, you do not merely learn its conclusion; you watch how the author builds it, where the evidence is strong and where it quietly leans on assumption, which sentence made you pause and reconsider. That experience leaves you able to reason in the author's domain, not just to repeat a verdict. Outsourcing the reading returns the answer but keeps the understanding for the machine. The wise use of these tools, then, is not to replace your reading but to sharpen it: let the machine fetch and translate and define, while you keep, for yourself, the slow work of judgment.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What distinction does the author draw between a summary and reading the full text?",
+          "choices": [
+            "Summaries are always inaccurate; full texts are accurate.",
+            "A summary gives the conclusion, while full reading builds the understanding and judgment behind it.",
+            "Full reading is faster than reading a summary.",
+            "Summaries are only useful for fiction."
+          ],
+          "answer": 1,
+          "explanation": "The author calls a summary \"a destination handed to you without the journey\" — you get the verdict but not the reasoning ability that full reading develops."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the author suggest is the wise use of AI tools for reading?",
+          "choices": [
+            "Use them to replace reading entirely",
+            "Avoid them completely",
+            "Let them assist (fetch, translate, define) while you keep the work of judgment",
+            "Use them only for summaries"
+          ],
+          "answer": 2,
+          "explanation": "The closing line says to \"let the machine fetch and translate and define, while you keep, for yourself, the slow work of judgment.\""
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What does the phrase \"keeps the understanding for the machine\" imply?",
+          "choices": [
+            "The machine becomes conscious.",
+            "When you outsource reading, you gain the answer but not the comprehension.",
+            "Machines store text more reliably than people.",
+            "Understanding is impossible without machines."
+          ],
+          "answer": 1,
+          "explanation": "It is a pointed way of saying the reader who skips the reading is left without the understanding that the effort would have produced."
+        }
+      ]
+    },
+    {
+      "id": "og-how-memory-consolidates",
+      "title": "Why Sleep Finishes Your Reading",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 3,
+      "text": "When you finish a chapter, your brain is not done with it. During sleep, especially deep slow-wave sleep, the hippocampus replays the day's experiences and gradually transfers the durable parts to the cortex for long-term storage. This is why a passage that felt slippery at night can seem clearer the next morning: the material was reorganized while you rested. The practical lesson is that cramming fights your own biology. Reading a little each day, with sleep between sessions, lets each night's consolidation lock in what the previous day's effort began. Spacing your practice is not a sign of weak commitment; it is the schedule the memory system was built to use.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "detail",
+          "stem": "According to the passage, what does the hippocampus do during deep sleep?",
+          "choices": [
+            "Erases the day's memories",
+            "Replays experiences and transfers durable parts to the cortex",
+            "Stops all activity",
+            "Creates dreams unrelated to learning"
+          ],
+          "answer": 1,
+          "explanation": "The passage states the hippocampus \"replays the day's experiences and gradually transfers the durable parts to the cortex.\""
+        },
+        {
+          "id": "q2",
+          "skill": "main-idea",
+          "stem": "What practical advice follows from the science described?",
+          "choices": [
+            "Cram all your reading into one long session",
+            "Read a little each day with sleep between sessions",
+            "Avoid sleeping after reading",
+            "Reading does not benefit from rest"
+          ],
+          "answer": 1,
+          "explanation": "Because consolidation happens during sleep, spaced daily reading \"lets each night's consolidation lock in\" the prior day's effort."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "\"Consolidation,\" as used here, most nearly means:",
+          "choices": [
+            "forgetting information",
+            "the strengthening and storing of memories",
+            "reading aloud",
+            "physical exercise"
+          ],
+          "answer": 1,
+          "explanation": "The passage uses \"consolidation\" for the process by which the brain stabilizes and stores what was learned."
+        }
+      ]
+    },
+    {
+      "id": "pd-twain-mississippi",
+      "title": "Reading the River",
+      "sourceType": "public-domain",
+      "source": "Mark Twain, Life on the Mississippi (1883)",
+      "attribution": "Mark Twain, Life on the Mississippi (1883). Public domain.",
+      "genre": "essay",
+      "level": 4,
+      "text": "The face of the water, in time, became a wonderful book — a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice. And it was not a book to be read once and thrown aside, for it had a new story to tell every day. Throughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing. There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparklingly renewed with every reperusal.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "What does Twain mean by calling the river a \"book\"?",
+          "choices": [
+            "He literally read books while on the river.",
+            "The river's surface held meaning that a trained eye could interpret.",
+            "The river was as boring as a textbook.",
+            "Passengers wrote about the river in journals."
+          ],
+          "answer": 1,
+          "explanation": "Twain treats the water's \"face\" as a text whose \"secrets\" he, unlike the untrained passenger, could read."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why is the river \"a dead language to the uneducated passenger\"?",
+          "choices": [
+            "Because passengers could not see the water",
+            "Because only trained skill lets one read its signs",
+            "Because the river had no features",
+            "Because passengers spoke a foreign language"
+          ],
+          "answer": 1,
+          "explanation": "Like a language one hasn't learned, the river's meaning is inaccessible without the training Twain acquired."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "\"Unflagging\" as used here most nearly means:",
+          "choices": ["never weakening", "frequently changing", "poorly marked", "easily ignored"],
+          "answer": 0,
+          "explanation": "Twain praises the river's \"unflagging\" interest — interest that never tires or diminishes."
+        }
+      ]
+    },
+    {
+      "id": "pd-austen-pride-opening",
+      "title": "A Truth Universally Acknowledged",
+      "sourceType": "public-domain",
+      "source": "Jane Austen, Pride and Prejudice (1813)",
+      "attribution": "Jane Austen, Pride and Prejudice (1813). Public domain.",
+      "genre": "fiction",
+      "level": 4,
+      "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters. \"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\" Mr. Bennet replied that he had not. \"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\" Mr. Bennet made no answer. \"Do you not want to know who has taken it?\" cried his wife impatiently. \"You want to tell me, and I have no objection to hearing it.\" This was invitation enough.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "The famous opening sentence is best understood as:",
+          "choices": [
+            "A sincere scientific fact",
+            "Gentle irony about how families view wealthy bachelors",
+            "Mr. Bennet's personal opinion",
+            "A legal rule of the time"
+          ],
+          "answer": 1,
+          "explanation": "Austen's tone is ironic: the \"truth\" reflects the matchmaking assumptions of \"surrounding families,\" not an actual law of nature."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the exchange reveal about Mr. Bennet?",
+          "choices": [
+            "He is eager and talkative.",
+            "He is dryly amused and teases his wife.",
+            "He is angry at his wife.",
+            "He has no interest in his family."
+          ],
+          "answer": 1,
+          "explanation": "His reply — \"You want to tell me, and I have no objection to hearing it\" — shows a dry, teasing wit."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "What news is Mrs. Bennet eager to share?",
+          "choices": [
+            "That a wedding has occurred",
+            "That Netherfield Park has been rented",
+            "That Mrs. Long is ill",
+            "That the family has lost its fortune"
+          ],
+          "answer": 1,
+          "explanation": "She asks whether he has heard \"that Netherfield Park is let at last.\""
+        }
+      ]
+    },
+    {
+      "id": "og-deep-vs-shallow-reading",
+      "title": "Two Kinds of Reading",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nonfiction",
+      "level": 2,
+      "text": "Not all reading is the same. Shallow reading scans for a single fact: a price, a time, a yes or no. It is fast and useful, and we do it dozens of times a day. Deep reading is different. It asks you to build a model in your head of what the writer is saying, to test it against what you already know, and to carry an idea from one paragraph into the next. Both kinds matter, but only one of them grows with practice. You can scan your whole life and never get better at scanning. Deep reading, by contrast, rewards effort: the more demanding texts you finish, the more easily you finish the next one. A good daily habit is small but deep — one short passage read with full attention beats an hour of skimming.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of the passage?",
+          "choices": [
+            "Shallow reading is useless.",
+            "Deep reading is a skill that improves with practice, unlike scanning.",
+            "All reading is equally valuable.",
+            "Skimming for an hour is the best habit."
+          ],
+          "answer": 1,
+          "explanation": "The passage contrasts the two and stresses that \"only one of them grows with practice\" — deep reading rewards effort."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what does deep reading ask you to do?",
+          "choices": [
+            "Scan for a single fact quickly",
+            "Build a mental model, test it, and carry ideas across paragraphs",
+            "Read as fast as possible",
+            "Memorize every word"
+          ],
+          "answer": 1,
+          "explanation": "Deep reading asks you to \"build a model,\" \"test it,\" and \"carry an idea from one paragraph into the next.\""
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What daily habit does the author recommend?",
+          "choices": [
+            "An hour of skimming",
+            "One short passage read with full attention",
+            "Reading only headlines",
+            "Avoiding difficult texts"
+          ],
+          "answer": 1,
+          "explanation": "The closing advice: \"one short passage read with full attention beats an hour of skimming.\""
+        }
+      ]
+    }
+  ]
+}

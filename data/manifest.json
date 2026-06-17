@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": 1,
+  "url": "https://support-teamam.github.io/honeliteracy-data/data/passages.json",
+  "sha256": "835839cbf484b97049e7509397a620607b77b004001c004793ed87611de51722",
+  "passageCount": 12,
+  "questionCount": 36,
+  "generatedAt": "2026-06-17T05:35:13.122Z"
+}
