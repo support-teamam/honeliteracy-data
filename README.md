@@ -99,3 +99,17 @@ key, an ambiguous question) are welcome via issues.
 
 Sibling repos: [carstory-data](https://github.com/support-teamam/carstory-data),
 [kittystory-data](https://github.com/support-teamam/kittystory-data).
+
+## Disclaimer
+
+This dataset is provided for **general informational purposes only**. The
+intervals, schedules, and cost figures are **typical-case estimates** — many are
+derived from generic, rule-based heuristics rather than manufacturer or expert
+data, and some descriptions are produced with the help of automated (AI) tools.
+
+It is **not** professional, medical, veterinary, or manufacturer advice. Always
+verify against a teacher or qualified educator where it matters before acting. The data is provided "as is", without
+warranty of any kind, and you use it at your own risk. Team AM is not affiliated
+with any manufacturer or brand referenced.
+
+Full terms: https://teamam.org/terms
